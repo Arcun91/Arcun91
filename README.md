@@ -14,7 +14,6 @@ Appassionato di fantasy e fantascienza, affamato di conoscenza, un comodo divano
 [![](https://img.shields.io/badge/Code-java-informational?style=plastic&logo=oracle&logoColor=white&color=F80000)](https://www.java.com)
 
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=plastic&logo=intellij-idea&logoColor=white&color=000000)](https://www.jetbrains.com/idea/)
 
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2)](https://www.facebook.com/Arcun91)
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Roberto150491)
