@@ -8,7 +8,8 @@ Appassionato di fantasy e fantascienza, affamato di conoscenza, un comodo divano
 
 
 [![](https://img.shields.io/badge/OS-MacOs-Informational?style=plastic&logo=apple&logoColor=white&color=000000)](https://www.apple.com/)
-[![](https://img.shields.io/badge/OS-Ubuntu-Informational?style=plastic&logo=ubuntu&logoColor=white&color=E95420)](https://ubuntu.com)
+[![](https://img.shields.io/badge/OS-Arch-Informational?style=plastic&logo=archlinux&logoColor=white&color=1793d1)](https://archlinux.org/)
+
 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Code-java-informational?style=plastic&logo=oracle&logoColor=white&color=F80000)](https://www.java.com)
